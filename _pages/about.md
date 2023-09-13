@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# A Brief Overview
+
 
 👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
 
