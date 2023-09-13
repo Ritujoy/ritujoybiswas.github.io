@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of my Ph.D. work](/images/Website_clipart_1.png){: .align-right}
 
 👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
 
 🔍 I investigate the possibilities of restoring far-end speech🗣️ intelligibility in heavily noisy near-end environments💥. 
+
+![Illustration of my Ph.D. work](/images/Website_clipart_1.png)
 
 🔍 I also explore room acoustics in terms of positioning of single microphone🎙️ for best human or machine intelligibility and optimal ASR performance.
 
