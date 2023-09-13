@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of my Ph.D. work](/images/Website_clipart.png){: .align-right scale = "350px"}
+![Illustration of my Ph.D. work](/images/Website_clipart.png){: .align-right width="350px"}
 
 👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
 
