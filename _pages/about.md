@@ -16,4 +16,4 @@ redirect_from:
 
 🤓 Geeks out on everything that boggles the mind 🤯.
 
-🖥️ Fascinated by the inter-disciplinary research avenues🧬📡 that build up to solutions of practical problems 💹.
+😲 Fascinated by the inter-disciplinary research avenues🧬📡 that build up to solutions of practical problems 💹.
