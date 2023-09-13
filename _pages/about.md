@@ -13,7 +13,7 @@ redirect_from:
 
 🔍 I investigate the possibilities of restoring far-end speech🗣️ intelligibility in heavily noisy near-end environments💥. 
 
-![Illustration of my Ph.D. work](/images/Website_clipart_1.png)
+![Illustration of my Ph.D. work](/images/Website_clipart_2.png)
 
 🔍 I also explore room acoustics in terms of positioning of single microphone🎙️ for best human or machine intelligibility and optimal ASR performance.
 
