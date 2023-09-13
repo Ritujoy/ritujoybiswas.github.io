@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "🙏🏼Namaste, I'm Ritujoy!"
+title: "🙏🏼Namaste, Ritujoy here!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# A Brief Overview
 
 👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
 
