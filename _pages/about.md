@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, waiting to defend my thesis.
+👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
 
-👨‍🔬 I explore the possibilities of restoring speech intelligibility🗣️ in heavily noisy environments💥. 
+🔍 I investigate the possibilities of restoring far-end speech🗣️ intelligibility in heavily noisy near-end environments💥. 
 
-I also investigate🔍 room acoustics in terms of positioning of single microphone for best human or machine intelligibility and optimal ASR performance.
+🔍 I also explore room acoustics in terms of positioning of single microphone🎙️ for best human or machine intelligibility and optimal ASR performance.
 
-Am an avid reader of everything that boggles the mind 🤯.
+🤓 Geeks out on everything that boggles the mind 🤯.
 
-Fascinated by the inter-disciplinary research avenues🧬📡 that build up to solutions of practical problems 💹.
+🖥️ Fascinated by the inter-disciplinary research avenues🧬📡 that build up to solutions of practical problems 💹.
