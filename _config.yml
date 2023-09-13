@@ -84,7 +84,7 @@ author:
   avatar           : "GIT_profile_pic.jpg"
   bio              : "Speech and Language Processing"
   location         : "India"
-  employer         :
+  employer         : "Indian Institute of Technology Jammu"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kqI4AJMAAAAJ&hl=en&oi=ao"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
