@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙏🏼Namaste, Ritujoy here!"
+title: "Namaste🙏, Ritujoy here!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
