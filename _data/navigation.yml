@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: view.html
     
   - title: "Publications"
     url: /publications/
