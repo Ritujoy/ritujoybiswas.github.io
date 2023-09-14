@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-  url: https://drive.google.com/file/d/1i13cMXqpgCdPCzBRgjh1YmaklviQfnib/view?usp=sharing
+  url: /cv/
 
   - title: "Publications"
     url: /publications/
