@@ -2,7 +2,17 @@
 main:
 
   - title: "CV"
-    url: https://doc-0c-28-prod-03-apps-viewer.googleusercontent.com/viewer2/prod-03/pdf/ij9r5aqlmdjj4pci9s0nf37tadnbe2du/pvfq5337mg54agkltdsn73ij5mm63ed0/1694669625000/3/109235626501641224106/APznzaYNeADvJOYJZ9KifeHYGeHOAiQZqtFXyc3sjHZKz9AijS2XFVlwj9ck9lTY-810oWWRwOndCPd3p57xQX1QVtipcymxW9EFdzGUmc_qUDHWNDBx4CHW98UG382FmPuebuTOaZqVk4DWMxcetDTduEj7EopKScnOfTtMAC8ycCMMfUr3qzL6P4xm-5P4t_NbA7iZBjUv3yWKe9O65e9YDF5VDtojLfawxzGzCa8HxVFaW3LS10DAbl0jQAS2VRA1LuxpPlni2-GrXUi_mO56DK3S-WGQswjQYjcFwght0bg7rXu8eg9oEkDTf58hXtxcOs0W6HZXREh7RrjdLmfzP-7ZDoEXbKwN_dm_gddQoOb1LudgRNfaKqS7Y1I1lZoZ1y6TXLbQGqwOVV9lAFyDDniwI-cN8g==?authuser=0&nonce=l1f152vo3lej0&user=109235626501641224106&hash=bn9lvmkc9oi4rp8qf7e3inlu781o21d7
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+  <html lang="en" style="width:100%; height:100%;">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Ritujoy's Resume</title>
+  </head>
+    <body style="width:100%; height:100%; margin:0;">
+      <iframe src="https://docs.google.com/gview?url= https://github.com/Ritujoy/ritujoybiswas.github.io/blob/master/Ritujoy_Biswas__CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    </body>
+  </html>
+
 
   - title: "Publications"
     url: /publications/
