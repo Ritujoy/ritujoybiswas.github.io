@@ -2,8 +2,8 @@
 main:
 
   - title: "CV"
-    url: view.html
-    
+    url: https://github.com/Ritujoy/ritujoybiswas.github.io/view.html
+
   - title: "Publications"
     url: /publications/
 
