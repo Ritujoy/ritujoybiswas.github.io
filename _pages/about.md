@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-👨‍🎓 I am a fourth year Ph.D. scholar at the Indian Institute of Technology Jammu, about to defend my thesis.
+👨‍🎓 I am a recent Ph.D. graduate from the Indian Institute of Technology Jammu.
 
-🔍 I investigate the possibilities of restoring far-end speech🗣️ intelligibility in heavily noisy near-end environments💥. 
+🔍 I have investigated the possibilities of restoring far-end speech🗣️ intelligibility in heavily noisy near-end environments💥. 
 
 ![Illustration](./images/Websiteclipart.png)
 
-🔍 I also explore room acoustics in terms of positioning of single microphone🎙️ for best human or machine intelligibility and optimal ASR performance.
+🔍 I have also explored room acoustics in terms of positioning of single microphone🎙️ for best human or machine intelligibility and optimal ASR performance.
 
 🤓 I geek out on everything that boggles the mind 🤯.
 
